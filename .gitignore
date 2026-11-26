@@ -6,6 +6,8 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+.venv/
+.tools/
 # Material de trabajo de impeccable (no es parte de la página)
 .impeccable/reference/
 .impeccable/review/
