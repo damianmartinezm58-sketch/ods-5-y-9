@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+# Archivos temporales de Excel (aparecen mientras el Excel está abierto)
+~$*.xlsx
+# Python
+__pycache__/
+*.pyc
+# Material de trabajo de impeccable (no es parte de la página)
+.impeccable/reference/
+.impeccable/review/
+.impeccable/questions/
+.impeccable/mocks/
